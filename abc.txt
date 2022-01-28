@@ -1,1 +1,3 @@
-welcoe to git
+welcome  to git
+secomd commit
+:
